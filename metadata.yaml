@@ -1,0 +1,31 @@
+_repo: The-Eighth-Year-A-Vital-Problem-of-Married-Life_51926
+_version: 0.0.1
+alternative_title: 'The 8th Year: A Vital Problem of Married Life'
+creator:
+  author:
+    agent_name: Gibbs, Philip
+    aliases:
+    - Gibbs, Phillip
+    - Gibbs, Philip Hamilton, Sir
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '1174'
+    url: http://www.gutenberg.org/2009/agents/1174
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51926'
+  lccn: '13019940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Eighth Year: A Vital Problem of Married Life'
+url: http://www.gutenberg.org/ebooks/51926
