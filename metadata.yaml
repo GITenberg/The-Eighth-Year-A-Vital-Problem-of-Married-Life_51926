@@ -1,6 +1,9 @@
 _repo: The-Eighth-Year-A-Vital-Problem-of-Married-Life_51926
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'The 8th Year: A Vital Problem of Married Life'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gibbs, Philip
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1174
     wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51926#The-Eighth-Year-A-Vital-Problem-of-Married-Life
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
